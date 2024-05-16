@@ -1,0 +1,61 @@
+resumeimage{
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 950px;
+    height: 760px;
+
+}
+nav{
+    background-color: #1f8e39;
+    height: 65px;
+    color: white;
+    font-family: fantasy;
+    font-size: 30px;
+}
+.cardtle{
+    /* width: 650px; */
+    font-family: cursive;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+.cardtxt{
+    justify-content: right;
+    /* width: 650px; */
+    text-align: center;
+}
+.cardbtn{
+    background-color:#1f8e39;
+    border-radius: 20px;
+    color: white;
+
+    padding: 15px;
+    align-items: center;
+}
+.cardbtn:link{
+    text-decoration: none;
+}
+.footer1{
+    background-color: #1f8e39;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+.form1{
+    align-items: center;
+    text-align: center;
+    border: #1f8e39 solid 1px;
+    height: 600px;
+    background-color: #1f8e394a;
+}
+.formbutton{
+    background-color: #1f8e39;
+    color: white;
+    width: 100px;
+    border: #1f8e39 solid 1px;
+    border-radius: 5px;
+}
+.formhead{
+    color: #1f8e39;
+}
